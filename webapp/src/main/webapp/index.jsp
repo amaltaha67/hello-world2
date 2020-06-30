@@ -2,5 +2,7 @@
 <br> New deployment using docker image and Ansible
 
 <br> Another modification 
-<br> <b>After deploying it using CI/ CD</b>
+<br> <font color = "red"><b>After deploying it using CI/ CD</b></font>
+
+
 
