@@ -4,7 +4,7 @@
 <br> Another modification 
 <br> <font color = "red"><b>After deploying it using CI/ CD</b></font>
 
-<br> <font color = "green"> Another modification </font> 
+<br> <font color = "red"> Another modification </font> 
 
 
 
