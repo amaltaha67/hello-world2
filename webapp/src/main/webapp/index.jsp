@@ -7,6 +7,6 @@
 <br> <font color = "red"> Another modification </font> 
 <br> <font color = "red"> Third modification </font> 
 
-<br> New line for today
+<br> New line for TODAY
 
 
