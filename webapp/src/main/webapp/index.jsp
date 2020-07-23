@@ -3,7 +3,7 @@
 
 <br> Another modification 
 <br> <font color = "red"><b>After deploying it using CI/ CD</b></font>
-<% out.println("");
+<%
     String name = request.getParameter("fname");
     String name1 = request.getParameter("lname") ;
     out.print(name + " " + name1 + "\n") ;
